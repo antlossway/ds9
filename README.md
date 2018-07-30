@@ -87,7 +87,7 @@ smpp server parameter
 
 # problems to solve
 
-how to search a message by bnumber/tpoa/msgid?
-how to monitor performance?
-how to associate price with cdr to make billing?
+- how to search a message by bnumber/tpoa/msgid?
+- how to monitor performance?
+- how to associate price with cdr to make billing?
 
